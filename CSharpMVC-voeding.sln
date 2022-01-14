@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpMVC-voeding", "CSharpMVC-voeding\CSharpMVC-voeding.csproj", "{93C6FF61-2340-4BBE-A0ED-45FB46628A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoedingClassLibrary", "VoedingClassLibrary\VoedingClassLibrary.csproj", "{73DC7AD5-6A2D-4295-B3EE-C04EDC54C3F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93C6FF61-2340-4BBE-A0ED-45FB46628A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C6FF61-2340-4BBE-A0ED-45FB46628A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C6FF61-2340-4BBE-A0ED-45FB46628A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C6FF61-2340-4BBE-A0ED-45FB46628A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73DC7AD5-6A2D-4295-B3EE-C04EDC54C3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DC7AD5-6A2D-4295-B3EE-C04EDC54C3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DC7AD5-6A2D-4295-B3EE-C04EDC54C3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DC7AD5-6A2D-4295-B3EE-C04EDC54C3F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7E1490D-E29C-4DB8-ACF2-B2A69CC3E644}
+	EndGlobalSection
+EndGlobal
