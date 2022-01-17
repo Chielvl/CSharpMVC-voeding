@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>CSharpMVC_voeding</RootNamespace>
+    <UserSecretsId>d374c457-5861-4f83-a1db-d4c11d3e0942</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

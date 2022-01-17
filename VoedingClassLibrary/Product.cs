@@ -11,7 +11,5 @@ namespace VoedingClassLibrary
         public int Id { get; set; }
         public string Naam { get; set; }
         public Voedingswaarden Voedingswaarden { get; set; }
-
-
     }
 }

@@ -17,10 +17,11 @@ namespace VoedingClassLibrary
 
         public GeslachtEnum Geslacht { get; set; }       //enum voor de verschillende genders? 
 
-        public double vergelijkingsScore { get; set; }
+        public float vergelijkingsScore { get; set; }
 
         #region agenda
 
+        public Agenda Agenda { get;}
         //hier komt de agenda
 
         #endregion

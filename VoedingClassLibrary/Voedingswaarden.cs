@@ -9,7 +9,7 @@ namespace VoedingClassLibrary
     public class Voedingswaarden
     {
         public int Id { get; set; }            
-        public string Name { get; set; }
+        public string Naam { get; set; }
         public int EnergieKcal { get; set; }         //in kcal
         public int EnergieKj { get; set; }           //in kilo joule
         public int Water { get; set; }              //in grammen
@@ -22,7 +22,7 @@ namespace VoedingClassLibrary
         public int MeervoudigVerzadigd { get; set; } //in grammen
         public int Cholesterol { get; set; }        //in milligrammen
         public int VoedingsVezels { get; set; }     //in grammen
-        public int Alcohol { get; set; }
+        public int Alcohol { get; set; }             //in grammen
 
         public Voedingswaarden(int EnergyKcal, int EnergyKj, int Water, int Eiwit, int Koolhydraten, int Suikers, int Vet, int VerzadigdVet, int EnkelvoudigVerzadigd, int MeervoudigVerzadigd, int Cholesterol, int VoedingsVezels, int Alcohol)
         {
